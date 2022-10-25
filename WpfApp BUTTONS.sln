@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp BUTTONS", "WpfApp BUTTONS\WpfApp BUTTONS.csproj", "{5F55AF32-0514-425E-9C75-85005A13762A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F55AF32-0514-425E-9C75-85005A13762A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F55AF32-0514-425E-9C75-85005A13762A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F55AF32-0514-425E-9C75-85005A13762A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F55AF32-0514-425E-9C75-85005A13762A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07688EFD-0AEA-4E37-A49D-3FE4BA2E282F}
+	EndGlobalSection
+EndGlobal
